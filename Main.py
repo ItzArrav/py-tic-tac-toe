@@ -1,9 +1,4 @@
-'''
-Tic Tac Toe
-Repo owner: Md. Fahim Bin Amin
-Description: A console based Tic Tac Toe game
--------------------------------------------------------------
-'''
+
 
 import random
 
